@@ -1,6 +1,20 @@
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
+//quit
+//history 
+//validate
+//show local folders
+// show local path 
+// show local files
+// show remote path
+// show remote files
+//download file <filename>
+//upload file <filename>
+//delete local file 
+// delete romote file 
+// change local file
+// change remote file
 
 int main(void) {
 	char input[50];
